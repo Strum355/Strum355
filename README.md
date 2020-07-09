@@ -6,10 +6,10 @@
 
 Incoming:
 
-<img style="object-position: 0 2px;"  width=20 height=20 src="https://img.stackshare.io/service/2594/preview.png"> <span>Incoming Code Intelligence Engineer</span><br/>
+<a href="https://about.sourcegraph.com"><img style="object-position: 0 2px;"  width=20 height=20 src="https://img.stackshare.io/service/2594/preview.png"></a> <span>Code Intelligence Engineer</span><br/>
 
 
 Previously:
 
-<img style="object-position: 0 2px;" width=20 height=20 src="https://avatars3.githubusercontent.com/u/4037476?s=200&v=4"> <span>Previously Backend Software Engineer/Intern</span><br/>
-<img style="object-position: 0 2px;"  width=20 height=20 src="https://avatars0.githubusercontent.com/u/11174628?s=280&v=4"> <span>Previously Junior Developer</span><br/>
+<a href="https://teamwork.com"><img style="object-position: 0 2px;" width=20 height=20 src="https://avatars3.githubusercontent.com/u/4037476?s=200&v=4"></a> <span>Backend Software Engineer/Intern</span><br/>
+<a href="https://cloudcix.com"><img style="object-position: 0 2px;"  width=20 height=20 src="https://avatars0.githubusercontent.com/u/11174628?s=280&v=4"></a> <span>Junior Developer</span><br/>
