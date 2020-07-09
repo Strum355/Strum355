@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://strum355.netsoc.co/kotlin/css/kotlin-rounded.png">
+  <img style="max-width: 300px; max-height: 300px;"  src="https://strum355.netsoc.co/kotlin/css/kotlin-rounded.png">
 </p>
 
 ---
