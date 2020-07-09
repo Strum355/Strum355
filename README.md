@@ -1,1 +1,1 @@
-![Caustics](https://github.com/Strum355/Strum355/blob/master/caustics.gif?raw=true)
+![me](https://strum355.netsoc.co/kotlin/css/kotlin-rounded.png)
