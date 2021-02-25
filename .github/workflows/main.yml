@@ -21,7 +21,6 @@ jobs:
           user: strum355
           template: classic
           base: activity, repositories
-          config_animated: yes
           config_timezone: Europe/Dublin
           plugin_activity: yes
           plugin_activity_days: 14
