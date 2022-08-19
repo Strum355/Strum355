@@ -1,12 +1,12 @@
 <p align="center">
-  <img height=250 width=250 src="https://strum355.netsoc.co/kotlin/css/kotlin-rounded.png">
+  <img height=250 width=250 src="https://ca.slack-edge.com/T02FSM7DL-U018WMLUL3F-ecd515f45e03-512">
 </p>
 
 ---
 
 # Current:
 
-### <a href="https://about.sourcegraph.com"><img width=20 height=20 src="https://img.stackshare.io/service/2594/preview.png"></a> <span>Code Intelligence Engineer</span><br/>
+### <a href="https://about.sourcegraph.com"><img width=20 height=20 src="https://handbook.sourcegraph.com/departments/engineering/design/brand_guidelines/logo/versions/Sourcegraph_Logomark_Color.svg"></a> <span>Code Intelligence + Navigation Engineer</span><br/>
 
 
 ## Previously:
