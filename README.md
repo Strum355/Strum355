@@ -2,9 +2,7 @@
   <img height=250 width=250 src="https://ca.slack-edge.com/T02FSM7DL-U018WMLUL3F-ecd515f45e03-512">
 </p>
 
----
-
-# Current:
+## Current:
 
 LFW!
 
