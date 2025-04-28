@@ -4,7 +4,7 @@
 
 ## Current:
 
-LFW!
+#### <a href="https://redhat.com"><img widhth=20 height=20 src="https://avatars.githubusercontent.com/u/33972111?s=280&v=4"></a> <span>Software Engineer on Trusted Profile Analyzer</span><br/>
 
 ## Previously:
 
